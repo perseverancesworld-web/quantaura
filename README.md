@@ -1,30 +1,15 @@
 # Quantaura
 
-Enochian AI v0.2 — A symbolic operator language and mythic cognitive engine built on Enochian symbolism.
+**v0.8 — NFT + Stripe Monetization + Execution Engine**
 
-## Architecture
+Full mythic cognition platform with Bytecode VM, Symbol Graph, Multi-Observer, Debugger, Plugin API, and NFT minting on Stripe payments.
 
-- **quantaura/**: Main package with:
-  - `core/`: Interpreter, DSL parser, tables
-  - `cognition/`: Observer & archetypes (stub)
-  - `runtime/`: VM foundations
-  - etc.
+## Features
+- Real Bytecode VM
+- Graph Runtime with edge updates
+- Interactive Debugger
+- Event Replay
+- Stripe Checkout → NFT mint
+- Watchtower plugins
 
-## Installation
-
-```bash
-git clone https://github.com/perseverancesworld-web/quantaura.git
-cd quantaura
-pip install -e .
-```
-
-## Quick Start
-
-```python
-from quantaura.core.cognitive import run_example
-run_example()
-```
-
-TAL now deterministic per Watchtower. Full restructure for scalability.
-
-Next: IR, Symbol Graph in v0.3.
+Quick Start: `pip install -e .` and `python -m quantaura.core.cognitive --nft-demo`
