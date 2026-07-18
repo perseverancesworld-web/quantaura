@@ -1,0 +1,14 @@
+[project]
+name = "quantaura"
+version = "0.2.0"
+description = "Enochian AI: Symbolic operator language and mythic cognitive engine"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+    {name = "Perseverance's World"},
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/perseverancesworld-web/quantaura"
