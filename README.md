@@ -1,15 +1,9 @@
-# Quantaura
+# Quantaura v1.0
 
-**v0.8 — NFT + Stripe Monetization + Execution Engine**
+Full mythic cognition engine with VM, Graph, Payments (Cash App, Coinbase, Stripe), NFT minting, and agent marketplace integrations.
 
-Full mythic cognition platform with Bytecode VM, Symbol Graph, Multi-Observer, Debugger, Plugin API, and NFT minting on Stripe payments.
+## Quick Start
+pip install -e .
+quantaura demo --full
 
-## Features
-- Real Bytecode VM
-- Graph Runtime with edge updates
-- Interactive Debugger
-- Event Replay
-- Stripe Checkout → NFT mint
-- Watchtower plugins
-
-Quick Start: `pip install -e .` and `python -m quantaura.core.cognitive --nft-demo`
+Payments configured for $111Joshua1984 (Cash App) and Coinbase ID.
